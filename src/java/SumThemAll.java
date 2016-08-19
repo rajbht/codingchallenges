@@ -1,3 +1,5 @@
+package java;
+
 /**
  Complete the given function sumOfIntegers to return the sum of n integers
 

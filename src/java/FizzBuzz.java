@@ -1,3 +1,5 @@
+package java;
+
 public class FizzBuzz {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer();
